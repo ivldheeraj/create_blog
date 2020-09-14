@@ -1,10 +1,10 @@
 ## create_blog
+
 ## Home Page
+![](./assets/Djangoproject1.PNG)
 
-![](./assets/Djangoproject1.png)
+## Login
+![](./assets/djangologin.PNG)
 
-##Login
-![](./assets/djangologin.png)
-
-##Create Article
-![](./assets/djangoarticle.png)
+## Create Article
+![](./assets/djangoarticle.PNG)
